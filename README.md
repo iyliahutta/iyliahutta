@@ -13,7 +13,7 @@ add data-driven value wherever I go.
 - LinkedIn: https://www.linkedin.com/in/iyliahutta/
 - Twitter: https://twitter.com/iyliahutta
 
-While you're here, please feel free to join me on my journey of learning and sharpening my Data Analytics and Data Science skils. Any and every piece of feedback
+While you're here, please feel free to join me on my journey of learning and sharpening my Data Analytics and Data Science skills. Any and every piece of feedback
 will be greatly appreciated and sought after. Thank you! 🤓
 
 <!---
