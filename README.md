@@ -1,8 +1,7 @@
 👋 Hi, I’m Iylia!
 
 👀 I majored in Psychology back in undergrad where I specialised in Research Methods and Statistics. The skills I built up at that point led me to
-my current role as a Senior Media Analyst at Meltwater where I lead a team of analysts in curating bespoke analytical reports for Meltwater's Singapore Governement clients
-to inform their public relations decision-making.
+my current role as a Senior Media Analyst at Meltwater where I lead a team of analysts in curating bespoke analytical reports for Meltwater's Singapore Government clients to inform their public relations decision-making.
 
 This journey led me to exploring the field of Data Analytics and Data Science that I am actively pursuing in my bid to become a better analyst and to 
 add data-driven value wherever I go.
