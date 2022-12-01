@@ -6,8 +6,7 @@ my current role as a Senior Media Analyst at Meltwater where I lead a team of an
 This journey led me to exploring the field of Data Analytics and Data Science that I am actively pursuing in my bid to become a better analyst and to 
 add data-driven value wherever I go.
 
-🌱 I’m currently learning SQL for Data Analytics on DataCamp and also Python and Statistics for Data Science at Singapore Polytechnic under its Specialist
-Diploma in Data Science (Data Analytics). I am also experienced in R, SPSS, MPlus, Microsoft Office and Google Suite.
+🌱 I’m currently learning Python and Statistics for Data Science at Singapore Polytechnic under its Specialist Diploma in Data Science (Data Analytics). I am also experienced in R, SQL, SPSS, MPlus, Microsoft Office and Google Suite.
 
 📫 You can reach me at the following:
 - Email: muhammad.iylia.1996@gmail.com
