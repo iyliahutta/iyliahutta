@@ -6,7 +6,7 @@ my current role as a Senior Media Analyst at Meltwater where I lead a team of an
 This journey led me to exploring the field of Data Analytics and Data Science that I am actively pursuing in my bid to become a better analyst and to 
 add data-driven value wherever I go.
 
-🌱 I’m currently learning Python and Statistics for Data Science at Singapore Polytechnic under its Specialist Diploma in Data Science (Data Analytics). I am also experienced in R, SQL, SPSS, MPlus, Microsoft Office and Google Suite.
+🌱 I’m currently learning Python and Statistics for Data Science at Singapore Polytechnic under its Specialist Diploma in Data Science (Data Analytics). I am also experienced in Google Apps Script, R, SQL, SPSS, MPlus, Microsoft Office and Google Suite.
 
 📫 You can reach me at the following:
 - Email: muhammad.iylia.1996@gmail.com
@@ -16,7 +16,7 @@ add data-driven value wherever I go.
 While you're here, please feel free to join me on my journey of learning and sharpening my Data Analytics and Data Science skills. Any and every piece of feedback
 will be greatly appreciated and sought after. Thank you! 🤓
 
-Repositories:
+# Repositories: #
 1. [Introducton to Programming for Data Science; Python and a little bit of SQL](https://github.com/iyliahutta/Intro-to-Programming-for-DS)
 2. [HDB Resale Data in R](https://github.com/iyliahutta/singapore-hdb-resale-prices)
 
