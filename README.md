@@ -16,6 +16,10 @@ add data-driven value wherever I go.
 While you're here, please feel free to join me on my journey of learning and sharpening my Data Analytics and Data Science skills. Any and every piece of feedback
 will be greatly appreciated and sought after. Thank you! 🤓
 
+Repositories:
+1. [Introducton to Programming for Data Science; Python and a little bit of SQL](https://github.com/iyliahutta/Intro-to-Programming-for-DS)
+2. [HDB Resale Data in R](https://github.com/iyliahutta/singapore-hdb-resale-prices)
+
 <!---
 iyliahutta/iyliahutta is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
